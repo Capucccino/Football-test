@@ -1,6 +1,6 @@
 # Football-test
 
-This repository host the code of a simple football project.
+This repository host the code of a football project.
 
 __To start the application:__
 
