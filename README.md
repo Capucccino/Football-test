@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 Then you can now run the app:
 ```
-python app.py
+python main.py
 ```
 
 and visit http://127.0.0.1:8050/.
